@@ -23,3 +23,6 @@ services:
       - "8000:8000"
     stdin_open: true
     tty: true
+
+
+    # When u should connect to local mysql databases forwarded by docker container use db as 127.0.0.1

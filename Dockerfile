@@ -1,4 +1,4 @@
-FROM php:7.1-apache
+FROM php:7.4-apache
 
 RUN apt-get update
 RUN apt-get install -y libzip-dev zip && docker-php-ext-install zip

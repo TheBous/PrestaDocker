@@ -7,7 +7,7 @@ When you reach the prestashop home, visit localhost:8000/admin and then go to ur
 
 <div align="center">
   <a href="https://github.com/TheBous/mysql-php-prestashop-docker">
-    <img src="https://github.com/TheBous/mysql-php-prestashop-docker/logo.svg" alt="Icon" width="500"/>
+    <img src="https://github.com/TheBous/mysql-php-prestashop-docker/blob/main/logo.svg" alt="Icon" width="500"/>
   </a>
   <br>
   <br>

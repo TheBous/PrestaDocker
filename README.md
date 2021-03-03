@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/TheBous/mysql-php-prestashop-docker">
-    <img src="https://github.com/TheBous/mysql-php-prestashop-docker/logo.svg" alt="logo" width="300"/>
+    <img src="https://github.com/TheBous/mysql-php-prestashop-docker/blob/main/logo.svg" alt="logo" width="300"/>
   </a>
   <br>
   <br>
